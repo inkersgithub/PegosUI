@@ -1336,7 +1336,7 @@ sup {
   overflow: hidden;
 }
 .portfolio figure {
-  padding: 0 !important;
+  padding: 2px !important;
   overflow: hidden;
   cursor: pointer;
 }
